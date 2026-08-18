@@ -1,0 +1,6 @@
+{
+  "name": "Kesh Amruth - Ayurvedic Hair Oil",
+  "description": "Official e-commerce website for Kesh Amruth hair growth oil featuring secure checkout, Ayurvedic ingredient breakdown, verified testimonials, and ritual guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
