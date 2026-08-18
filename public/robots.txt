@@ -1,0 +1,25 @@
+# Robots.txt for KeshAmruth (Kesh Amruth Ayurvedic Hair Oil)
+# https://keshamruth.com
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /checkout/success
+
+# Sitemaps
+Sitemap: https://keshamruth.com/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
+
+# Specific major search engine bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /assets/
+Allow: /images/
+
+User-agent: Bingbot
+Allow: /

@@ -1,0 +1,17 @@
+{
+  "short_name": "KeshAmruth",
+  "name": "Kesh Amruth Pure Ayurvedic Hair Oil",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/tigztwpv/image/upload/v1787059071/logo.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FAF8F5",
+  "theme_color": "#234E39",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Authentic 100% Ayurvedic Hair Oil with 14 botanicals for hair fall control, regrowth, and scalp health."
+}
